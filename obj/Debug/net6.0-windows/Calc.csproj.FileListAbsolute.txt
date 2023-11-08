@@ -1,0 +1,32 @@
+C:\Users\Anonymous\source\repos\Calc\bin\Debug\net6.0-windows\Calc.exe
+C:\Users\Anonymous\source\repos\Calc\bin\Debug\net6.0-windows\Calc.deps.json
+C:\Users\Anonymous\source\repos\Calc\bin\Debug\net6.0-windows\Calc.runtimeconfig.json
+C:\Users\Anonymous\source\repos\Calc\bin\Debug\net6.0-windows\Calc.dll
+C:\Users\Anonymous\source\repos\Calc\bin\Debug\net6.0-windows\Calc.pdb
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\Calc.csproj.GenerateResource.cache
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfoInputs.cache
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfo.cs
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\Calc.dll
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\refint\Calc.dll
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\Calc.pdb
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\Calc.genruntimeconfig.cache
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\ref\Calc.dll
+C:\Users\Anonymous\source\repos\Calc\obj\Debug\net6.0-windows\Calc.Form1.resources
+C:\Users\Anonymous\source\repos\Scientific Calculator\bin\Debug\net6.0-windows\Calc.exe
+C:\Users\Anonymous\source\repos\Scientific Calculator\bin\Debug\net6.0-windows\Calc.deps.json
+C:\Users\Anonymous\source\repos\Scientific Calculator\bin\Debug\net6.0-windows\Calc.runtimeconfig.json
+C:\Users\Anonymous\source\repos\Scientific Calculator\bin\Debug\net6.0-windows\Calc.dll
+C:\Users\Anonymous\source\repos\Scientific Calculator\bin\Debug\net6.0-windows\Calc.pdb
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\Calc.Form1.resources
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\Calc.csproj.GenerateResource.cache
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\Calc.AssemblyInfoInputs.cache
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\Calc.AssemblyInfo.cs
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\Calc.dll
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\refint\Calc.dll
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\Calc.pdb
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\Calc.genruntimeconfig.cache
+C:\Users\Anonymous\source\repos\Scientific Calculator\obj\Debug\net6.0-windows\ref\Calc.dll
